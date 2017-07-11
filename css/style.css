@@ -1,0 +1,20 @@
+html,body{
+  width: 100%
+  margin: 0;
+  padding: 0;
+font-family: 'Oswald', sans-serif;
+  background-color: #FF1B1D;
+}
+
+.container{
+            text-align: center;
+}
+.image{
+  width: 350px;
+  margin-top: 100px;
+  border-radius:50%;
+}
+.nav{
+  background-color: #68FFFC;
+
+}
