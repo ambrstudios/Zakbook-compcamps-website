@@ -1,8 +1,8 @@
 var items = [
   {name: 'apple', valve: 4},
-  {name:'orange', value:3}
-{name:'elephant',value:650;
-;]
+  {name:'orange', value:3},
+{name:'elephant',value:650}
+];
 
 var first = document.querySelector('#first');
 var second = document.querySelector('#fsecond');
@@ -10,9 +10,7 @@ var first = document.querySelector('#first');
 var second = document.querySelector('#fsecond');
 
 
-second.addEventListener('click, function'(){
-
-});
+second.addEventListener('click', function(){
   if(firstDiv.value > secondDiv.value) {
     count++;
   } else {
