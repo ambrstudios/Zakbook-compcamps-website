@@ -1,28 +1,27 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title> Memeb00k </title>
+  <title> Zakbook </title>
   <link href="css/style.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 </head>
   <body>
-
     <div class= "nav">
       <ul>
         <li class="nav-link"><a href="index.html">Home</a></li>
-        <li class="nav-link"><a href="http://compcamps.com">compcamps</a></li>
-        <li class="nav-link"><a href="memes.html"> Meme Page </a></li>
+        <li class="nav-link"><a href="http://compcamps.com">compcsamps</a></li>
+        <li class="nav-link"><a href="memes.101"> Meme Page </a></li>
       </ul>
     </div>
     <div class= "container">
           <h1> Zakbook </h1>
           <h3> made by Zakhraf Asghar</h3>
-            <p> WELCOME TO THE MEME BOOK </p>
-<img src= "memes/memebook.png"  alt= "Meme book">;<br/>"
-<p> This is where I post hottest memes</p>
-
-
+<img class="image" src="img/me.jpg" alt="The supreme lord"/>
+        <p> This website is about how I am amazing.
+        My full name is god, but you can call me supreme lord
+      for short. </p>
+        <p> </p>
 
       </div>
   </body>

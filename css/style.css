@@ -12,9 +12,29 @@ font-family: 'Oswald', sans-serif;
 .image{
   width: 350px;
   margin-top: 100px;
-  border-radius:50%;
+  border-radius:100%;
 }
 .nav{
   background-color: #68FFFC;
+
+}
+.nav-link{
+   display: inline-block;
+   padding:25px
+}
+.image{
+  width: 350px;
+  margin-top: 100px;
+  border-radius:50%;
+}
+a{
+  font-size: 20px;
+  color: #FF1B1D;
+  text-decoration: none;
+}
+
+a:hover{  font-size: 30px;
+  color: #FF1B1D;
+  text-decoration: none;
 
 }
